@@ -1,0 +1,7 @@
+Sakai Scripts using Webservices 
+
+Functionality List :
+- automatically import users from cvs list
+- automatically delete users from csv list
+- automatically create Groups and associate Groups to Sites
+- automatically generate HTML emails campaigns (via MailChimp)

@@ -1,0 +1,1648 @@
+[{
+		"studentID":"marius.baciu",
+		"studentName":"Baciu",
+		"studentSurname":"Marius",
+		"studentEmail":"marius.baciu@cpaddd.ro ",
+		"studentType":"student ",
+		"studentPassword":"marius.baciu",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"vlad.chende",
+		"studentName":"Chende",
+		"studentSurname":"Vlad",
+		"studentEmail":"vlad.chende@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"vlad.chende",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"monica.drinda",
+		"studentName":"Drinda",
+		"studentSurname":"Monica",
+		"studentEmail":"monica.drinda@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"monica.drinda",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"carmen.dragotoiu",
+		"studentName":"Dragotoiu",
+		"studentSurname":"Carmen",
+		"studentEmail":"carmen.dragotoiu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"carmen.dragotoiu",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"adelina.dranca",
+		"studentName":"Dranca",
+		"studentSurname":"Adelina",
+		"studentEmail":"adelina.dranca@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"adelina.dranca",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"alexandra.dirgau",
+		"studentName":"Dirgau",
+		"studentSurname":"Alexandra",
+		"studentEmail":"alexandra.dirgau@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"alexandra.dirgau",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"emanuel.franc",
+		"studentName":"Franc",
+		"studentSurname":"Emanuel",
+		"studentEmail":"emanuel.franc@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"emanuel.franc",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"adriana.goron",
+		"studentName":"Goron",
+		"studentSurname":"Adriana",
+		"studentEmail":"adriana.goron@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"adriana.goron",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"alina.berghian",
+		"studentName":"Berghian",
+		"studentSurname":"Alina",
+		"studentEmail":"alina.berghian@yahoo.com",
+		"studentType":"student ",
+		"studentPassword":"alina.berghian",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"elena.balasz",
+		"studentName":"Balasz",
+		"studentSurname":"Elena",
+		"studentEmail":"elena.balasz@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"elena.balasz",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"bogdan.baltatu",
+		"studentName":"Baltatu",
+		"studentSurname":"Bogdan",
+		"studentEmail":"bogdan.baltatu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"bogdan.baltatu",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"alexandrina.bosley",
+		"studentName":"Bolsey",
+		"studentSurname":"Alexandrina",
+		"studentEmail":"alexandrina.bosley@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"alexandrina.bosley",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"sebastian.chereches",
+		"studentName":"Chereches",
+		"studentSurname":"Sebastian",
+		"studentEmail":"sebastian.chereches@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"sebastian.chereches",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"radu.but",
+		"studentName":"But",
+		"studentSurname":"Radu",
+		"studentEmail":"radu.but@cpaddd.ro ",
+		"studentType":"student ",
+		"studentPassword":"radu.but",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"bogdan.miron",
+		"studentName":"Miron",
+		"studentSurname":"Bogdan",
+		"studentEmail":"bogdan.miron@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"bogdan.miron",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"adina.onigas",
+		"studentName":"Onigas",
+		"studentSurname":"Adina",
+		"studentEmail":"adina.onigas@cpaddd.ro ",
+		"studentType":"student ",
+		"studentPassword":"adina.onigas",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"alexandra.macavei",
+		"studentName":"Macavei",
+		"studentSurname":"Alexandra",
+		"studentEmail":"alexandra.macavei@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"alexandra.macavei",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"lavinia.chereches",
+		"studentName":"Chereches",
+		"studentSurname":"Lavinia",
+		"studentEmail":"lavinia.chereches@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"lavinia.chereches",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"andreea.andries",
+		"studentName":"Andries",
+		"studentSurname":"Andreea",
+		"studentEmail":"andreea.andries@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"andreea.andries",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"maria.maties",
+		"studentName":"Maties",
+		"studentSurname":"Maria",
+		"studentEmail":"maria.maties@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"maria.maties",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"adriana.ispas",
+		"studentName":"Ispas",
+		"studentSurname":"Adriana",
+		"studentEmail":"adriana.ispas@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"adriana.ispas",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"antoanela.popovici",
+		"studentName":"Popovici",
+		"studentSurname":"Antoanela",
+		"studentEmail":"antoanela.popovici@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"antoanela.popovici",
+		"courseID":"C1"
+	},
+	{
+		"studentID":"alina.marina",
+		"studentName":"Marina",
+		"studentSurname":"Alina",
+		"studentEmail":"alina.marina@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"alina.marina",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"ioan.margeanu",
+		"studentName":"Margeanu",
+		"studentSurname":"Ioan",
+		"studentEmail":"ioan.margeanu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ioan.margeanu",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"doru.barbur",
+		"studentName":"Barbur",
+		"studentSurname":"Doru",
+		"studentEmail":"doru.barbur@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"doru.barbur",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"rares.blag",
+		"studentName":"Blag",
+		"studentSurname":"Rares",
+		"studentEmail":"rares.blag@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"rares.blag",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"ioana.tanasescu",
+		"studentName":"Tanasescu",
+		"studentSurname":"Ioana",
+		"studentEmail":"ioana.tanasescu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ioana.tanasescu",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"pierina.vintila",
+		"studentName":"Vintila",
+		"studentSurname":"Pierina",
+		"studentEmail":"pierina.vintila@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"pierina.vintila",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"anamaria.matei",
+		"studentName":"Matei",
+		"studentSurname":"Ana Maria",
+		"studentEmail":"anamaria.matei@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"anamaria.matei",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"oana.tarta",
+		"studentName":"Tarta",
+		"studentSurname":"Oana",
+		"studentEmail":"oana.tarta@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"oana.tarta",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"bianca.popescu",
+		"studentName":"Popescu",
+		"studentSurname":"Bianca",
+		"studentEmail":"bianca.popescu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"bianca.popescu",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"paul.pascalau",
+		"studentName":"Pascalau",
+		"studentSurname":"Paul",
+		"studentEmail":"paul.pascalau@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"paul.pascalau",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"antoaneta.vana",
+		"studentName":"Vana",
+		"studentSurname":"Antoaneta",
+		"studentEmail":"antoaneta.vana@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"antoaneta.vana",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"ilie.campean",
+		"studentName":"Campean",
+		"studentSurname":"Ilie",
+		"studentEmail":"ilie.campean@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ilie.campean",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"gabriel.gati",
+		"studentName":"Gati",
+		"studentSurname":"Gabriel",
+		"studentEmail":"gabriel.gati@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"gabriel.gati",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"mihai.codreanu",
+		"studentName":"Codreanu",
+		"studentSurname":"Mihai",
+		"studentEmail":"mihai.codreanu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mihai.codreanu",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"mirela.margeanu",
+		"studentName":"Margeanu",
+		"studentSurname":"Mirela",
+		"studentEmail":"mirela.margeanu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mirela.margeanu",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"nicolae.nandra",
+		"studentName":"Nandra",
+		"studentSurname":"Nicolae",
+		"studentEmail":"nicolae.nandra@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"nicolae.nandra",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"dorian.almasan",
+		"studentName":"Almasan",
+		"studentSurname":"Dorian",
+		"studentEmail":"dorian.almasan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"dorian.almasan",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"andra.moldovan",
+		"studentName":"Moldovan",
+		"studentSurname":"Andra",
+		"studentEmail":"andra.moldovan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"andra.moldovan",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"erika.lazar",
+		"studentName":"Lazar",
+		"studentSurname":"Erika",
+		"studentEmail":"erika.lazar@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"erika.lazar",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"iuliana.tomuta",
+		"studentName":"Tomuta",
+		"studentSurname":"Iuliana",
+		"studentEmail":"iuliana.tomuta@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"iuliana.tomuta",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"horia.ciuclaru",
+		"studentName":"Ciuclaru",
+		"studentSurname":"Horia",
+		"studentEmail":"horia.ciuclaru@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"horia.ciuclaru",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"sorin.muresan",
+		"studentName":"Muresan",
+		"studentSurname":"Sorin",
+		"studentEmail":"sorin.muresan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"sorin.muresan",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"susana.oros",
+		"studentName":"Oros",
+		"studentSurname":"Susana",
+		"studentEmail":"susana.oros@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"susana.oros",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"daniel.stan",
+		"studentName":"Stan",
+		"studentSurname":"Daniel",
+		"studentEmail":"daniel.stan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"daniel.stan",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"bogdan.trif",
+		"studentName":"Trif",
+		"studentSurname":"Bogdan",
+		"studentEmail":"bogdan.trif@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"bogdan.trif",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"cristian.lascau",
+		"studentName":"Lascau",
+		"studentSurname":"Cristian",
+		"studentEmail":"cristian.lascau@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"cristian.lascau",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"daniel.copil",
+		"studentName":"Copil",
+		"studentSurname":"Daniel",
+		"studentEmail":"daniel.copil@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"daniel.copil",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"corina.pop",
+		"studentName":"Pop",
+		"studentSurname":"Corina",
+		"studentEmail":"corina.pop@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"corina.pop",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"vasile.horotan",
+		"studentName":"Horotan",
+		"studentSurname":"Vasile",
+		"studentEmail":"vasile.horotan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"vasile.horotan",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"mihai.cucolas",
+		"studentName":"Cucolas",
+		"studentSurname":"Mihai",
+		"studentEmail":"mihai.cucolas@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mihai.cucolas",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"anca.catinean",
+		"studentName":"Catinean",
+		"studentSurname":"Anca",
+		"studentEmail":"anca.catinean@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"anca.catinean",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"cristina.chira",
+		"studentName":"Chira",
+		"studentSurname":"Cristina",
+		"studentEmail":"cristina.chira@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"cristina.chira",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"monica.covriga",
+		"studentName":"Covriga",
+		"studentSurname":"Monica",
+		"studentEmail":"monica.covriga@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"monica.covriga",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"anamaria.mitile",
+		"studentName":"Mitile",
+		"studentSurname":"Ana Maria",
+		"studentEmail":"anamaria.mitile@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"anamaria.mitile",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"mihaela.hedes",
+		"studentName":"Hedes",
+		"studentSurname":"Mihaela",
+		"studentEmail":"mihaela.hedes@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mihaela.hedes",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"cristian.chirila",
+		"studentName":"Chirila",
+		"studentSurname":"Cristian",
+		"studentEmail":"cristian.chirila@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"cristian.chirila",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"ramona.vetisan",
+		"studentName":"Vetisan",
+		"studentSurname":"Ramona",
+		"studentEmail":"ramona.vetisan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ramona.vetisan",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"daniel.todea",
+		"studentName":"Todea",
+		"studentSurname":"Daniel",
+		"studentEmail":"daniel.todea@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"daniel.todea",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"bogdan.mondoc",
+		"studentName":"Mondoc",
+		"studentSurname":"Bogdan",
+		"studentEmail":"bogdan.mondoc@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"bogdan.mondoc",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"benedek.kovacs",
+		"studentName":"Kovacs",
+		"studentSurname":"Benedek",
+		"studentEmail":"benedek.kovacs@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"benedek.kovacs",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"gabriel.olteanu",
+		"studentName":"Olteanu",
+		"studentSurname":"Gabriel",
+		"studentEmail":"gabriel.olteanu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"gabriel.olteanu",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"laura.catana",
+		"studentName":"Catana",
+		"studentSurname":"Laura",
+		"studentEmail":"laura.catana@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"laura.catana",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"grigore.vlad",
+		"studentName":"Vlad",
+		"studentSurname":"Grigore",
+		"studentEmail":"grigore.vlad@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"grigore.vlad",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"vasile.craciun",
+		"studentName":"Craciun",
+		"studentSurname":"Vasile",
+		"studentEmail":"vasile.craciun@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"vasile.craciun",
+		"courseID":"C2"
+	},
+	{
+		"studentID":"emil.pop",
+		"studentName":"Pop",
+		"studentSurname":"Emil",
+		"studentEmail":"emil.pop@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"emil.pop",
+		"courseID":"C3"
+	},
+	{
+		"studentID":"gheorghe.pop",
+		"studentName":"Pop",
+		"studentSurname":"Gheorghe",
+		"studentEmail":"gheorghe.pop@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"gheorghe.pop",
+		"courseID":"C3"
+	},
+	{
+		"studentID":"anca.salajan",
+		"studentName":"Salajan",
+		"studentSurname":"Anca",
+		"studentEmail":"anca.salajan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"anca.salajan",
+		"courseID":"C3"
+	},
+	{
+		"studentID":"camelia.popa",
+		"studentName":"Popa",
+		"studentSurname":"Camelia",
+		"studentEmail":"camelia.popa@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"camelia.popa",
+		"courseID":"C3"
+	},
+	{
+		"studentID":"oana.salanta",
+		"studentName":"Salanta",
+		"studentSurname":"Oana",
+		"studentEmail":"oana.salanta@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"oana.salanta",
+		"courseID":"C3"
+	},
+	{
+		"studentID":"adriana.gligor",
+		"studentName":"Gligor",
+		"studentSurname":"Adriana",
+		"studentEmail":"adriana.gligor@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"adriana.gligor",
+		"courseID":"C3"
+	},
+	{
+		"studentID":"emanuel.giurgiu",
+		"studentName":"Giurgiu",
+		"studentSurname":"Emanuel",
+		"studentEmail":"emanuel.giurgiu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"emanuel.giurgiu",
+		"courseID":"C3"
+	},
+	{
+		"studentID":"mihai.fodor",
+		"studentName":"Fodor",
+		"studentSurname":"Mihai",
+		"studentEmail":"mihai.fodor@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mihai.fodor",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"iosif.fodor",
+		"studentName":"Fodor",
+		"studentSurname":"Iosif",
+		"studentEmail":"iosif.fodor@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"iosif.fodor",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"liliana.fodor",
+		"studentName":"Fodor",
+		"studentSurname":"Liliana",
+		"studentEmail":"liliana.fodor@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"liliana.fodor",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"emanuel.pantea",
+		"studentName":"Pantea",
+		"studentSurname":"Emanuel",
+		"studentEmail":"emanuel.pantea@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"emanuel.pantea",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"vestitia.sautea",
+		"studentName":"Sautea",
+		"studentSurname":"Vestitia",
+		"studentEmail":"vestitia.sautea@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"vestitia.sautea",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"cantemir.pasca",
+		"studentName":"Pasca",
+		"studentSurname":"Cantemir",
+		"studentEmail":"cantemir.pasca@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"cantemir.pasca",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"bogdan.jurco",
+		"studentName":"Jurco",
+		"studentSurname":"Bogdan",
+		"studentEmail":"bogdan.jurco@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"bogdan.jurco",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"felicia.puscas",
+		"studentName":"Puscas",
+		"studentSurname":"Felicia",
+		"studentEmail":"felicia.puscas@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"felicia.puscas",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"maria.nistor",
+		"studentName":"Nistor",
+		"studentSurname":"Maria",
+		"studentEmail":"maria.nistor@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"maria.nistor",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"ramona.nimu",
+		"studentName":"Nimu",
+		"studentSurname":"Ramona",
+		"studentEmail":"ramona.nimu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ramona.nimu",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"mihaela.georgiu",
+		"studentName":"Georgiu",
+		"studentSurname":"Mihaela",
+		"studentEmail":"mihaela.georgiu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mihaela.georgiu",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"dana.boda",
+		"studentName":"Boda",
+		"studentSurname":"Dana",
+		"studentEmail":"dana.boda@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"dana.boda",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"luisa.farcas",
+		"studentName":"Farcas",
+		"studentSurname":"Luisa",
+		"studentEmail":"luisa.farcas@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"luisa.farcas",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"dana.andreica",
+		"studentName":"Andreica",
+		"studentSurname":"Dana",
+		"studentEmail":"dana.andreica@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"dana.andreica",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"ioan.dragota",
+		"studentName":"Dragota",
+		"studentSurname":"Ioan",
+		"studentEmail":"ioan.dragota@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ioan.dragota",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"corina.petria",
+		"studentName":"Petria",
+		"studentSurname":"Corina",
+		"studentEmail":"corina.petria@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"corina.petria",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"attila.kelemen",
+		"studentName":"Kelemen",
+		"studentSurname":"Attila",
+		"studentEmail":"attila.kelemen@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"attila.kelemen",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"lajos.lukacs",
+		"studentName":"Lukacs",
+		"studentSurname":"Lajos",
+		"studentEmail":"lajos.lukacs@cpddd.ro",
+		"studentType":"student ",
+		"studentPassword":"lajos.lukacs",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"lidia.pridea",
+		"studentName":"Pridea",
+		"studentSurname":"Lidia",
+		"studentEmail":"lidia.pridea@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"lidia.pridea",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"florina.onofrei",
+		"studentName":"Onofrei",
+		"studentSurname":"Florina",
+		"studentEmail":"florina.onofrei@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"florina.onofrei",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"nicolae.stan",
+		"studentName":"Stan",
+		"studentSurname":"Nicolae",
+		"studentEmail":"nicolae.stan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"nicolae.stan",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"mihai.baciu",
+		"studentName":"Baciu",
+		"studentSurname":"Mihai",
+		"studentEmail":"mihai.baciu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mihai.baciu",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"simona.stefan",
+		"studentName":"Stefan",
+		"studentSurname":"Simona",
+		"studentEmail":"simona.stefan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"simona.stefan",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"susana.drinda",
+		"studentName":"Drinda",
+		"studentSurname":"Susana",
+		"studentEmail":"susana.drinda@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"susana.drinda",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"roxana.itoafa",
+		"studentName":"Itoafa",
+		"studentSurname":"Roxana",
+		"studentEmail":"roxana.itoafa@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"roxana.itoafa",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"delia.rusu",
+		"studentName":"Rusu",
+		"studentSurname":"Delia",
+		"studentEmail":"delia.rusu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"delia.rusu",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"diana.suciu",
+		"studentName":"Suciu",
+		"studentSurname":"Diana",
+		"studentEmail":"diana.suciu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"diana.suciu",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"mihai.vadean",
+		"studentName":"Vadean",
+		"studentSurname":"Mihai",
+		"studentEmail":"mihai.vadean@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mihai.vadean",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"maria.sanda",
+		"studentName":"Sanda",
+		"studentSurname":"Maria",
+		"studentEmail":"maria.sanda@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"maria.sanda",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"nicolae.sanda",
+		"studentName":"Sanda",
+		"studentSurname":"Nicolae",
+		"studentEmail":"nicolae.sanda@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"nicolae.sanda",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"raluca.tatar",
+		"studentName":"Tatar",
+		"studentSurname":"Raluca",
+		"studentEmail":"raluca.tatar@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"raluca.tatar",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"mariana.rusu",
+		"studentName":"Rusu",
+		"studentSurname":"Mariana",
+		"studentEmail":"mariana.rusu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mariana.rusu",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"ramona.balmos",
+		"studentName":"Balmos",
+		"studentSurname":"Ramona",
+		"studentEmail":"ramona.balmos@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ramona.balmos",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"georgeta.moldovan",
+		"studentName":"Moldovan",
+		"studentSurname":"Georgeta",
+		"studentEmail":"georgeta.moldovan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"georgeta.moldovan",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"cristian.vesa",
+		"studentName":"Vesa",
+		"studentSurname":"Cristian",
+		"studentEmail":"cristian.vesa@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"cristian.vesa",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"maria.bungardean",
+		"studentName":"Bungardean",
+		"studentSurname":"Maria",
+		"studentEmail":"maria.bungardean@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"maria.bungardean",
+		"courseID":"C4"
+	},
+	{
+		"studentID":"daniela.pantea",
+		"studentName":"Pantea",
+		"studentSurname":"Daniela",
+		"studentEmail":"daniela.pantea@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"daniela.pantea",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"claudiu.margin",
+		"studentName":"Margin",
+		"studentSurname":"Claudiu",
+		"studentEmail":"claudiu.margin@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"claudiu.margin",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"marius.codrea",
+		"studentName":"Codrea",
+		"studentSurname":"Marius",
+		"studentEmail":"marius.codrea@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"marius.codrea",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"dumitrita.hanc",
+		"studentName":"Hanc",
+		"studentSurname":"Dumitrita",
+		"studentEmail":"dumitrita.hanc@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"dumitrita.hanc",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"carmen.dragan",
+		"studentName":"Dragan",
+		"studentSurname":"Carmen",
+		"studentEmail":"carmen.dragan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"carmen.dragan",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"diana.patras",
+		"studentName":"Patras",
+		"studentSurname":"Diana",
+		"studentEmail":"diana.patras@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"diana.patras",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"mihai.corches",
+		"studentName":"Corches",
+		"studentSurname":"Mihai",
+		"studentEmail":"mihai.corches@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mihai.corches",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"mariana.lascau",
+		"studentName":"Lascau",
+		"studentSurname":"Mariana",
+		"studentEmail":"mariana.lascau@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mariana.lascau",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"alexandru.craciunas",
+		"studentName":"Craciunas",
+		"studentSurname":"Alexandru",
+		"studentEmail":"alexandru.craciunas@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"alexandru.craciunas",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"szilard.szilagyi",
+		"studentName":"Szilagyi",
+		"studentSurname":"Szilard",
+		"studentEmail":"szilard.szilagyi@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"szilard.szilagyi",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"ioan.rotar",
+		"studentName":"Rotar",
+		"studentSurname":"Ioan",
+		"studentEmail":"ioan.rotar@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ioan.rotar",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"petru.chivaru",
+		"studentName":"Chivaru",
+		"studentSurname":"Petru",
+		"studentEmail":"petru.chivaru@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"petru.chivaru",
+		"courseID":"C5"
+	},
+	{
+		"studentID":"adrian.stan",
+		"studentName":"Stan",
+		"studentSurname":"Adrian",
+		"studentEmail":"adrian.stan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"adrian.stan",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"brindusa.pincu",
+		"studentName":"Pincu",
+		"studentSurname":"Brindusa",
+		"studentEmail":"brindusa.pincu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"brindusa.pincu",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"elena.jurca",
+		"studentName":"Jurca",
+		"studentSurname":"Elena",
+		"studentEmail":"elena.jurca@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"elena.jurca",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"roxana.florian",
+		"studentName":"Florian",
+		"studentSurname":"Roxana",
+		"studentEmail":"roxana.florian@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"roxana.florian",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"dan.macavei",
+		"studentName":"Macavei",
+		"studentSurname":"Dan",
+		"studentEmail":"dan.macavei@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"dan.macavei",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"raluca.alexandrescu",
+		"studentName":"Alexandrescu",
+		"studentSurname":"Raluca",
+		"studentEmail":"raluca.alexandrescu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"raluca.alexandrescu",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"ioana.candra",
+		"studentName":"Candra",
+		"studentSurname":"Ioana",
+		"studentEmail":"ioana.candra@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ioana.candra",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"iuliu.petridean",
+		"studentName":"Petridean",
+		"studentSurname":"Iuliu",
+		"studentEmail":"iuliu.petridean@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"iuliu.petridean",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"aurelia.vartolomei",
+		"studentName":"Vartolomei",
+		"studentSurname":"Aurelia",
+		"studentEmail":"aurelia.vartolomei@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"aurelia.vartolomei",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"simona.niste",
+		"studentName":"Niste ",
+		"studentSurname":"Simona",
+		"studentEmail":"simona.niste@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"simona.niste",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"ancuta.tiuc",
+		"studentName":"Tiuc",
+		"studentSurname":"Ancuta",
+		"studentEmail":"ancuta.tiuc@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ancuta.tiuc",
+		"courseID":"C6"
+	},
+	{
+		"studentID":"camelia.sabadis",
+		"studentName":"Sabadis",
+		"studentSurname":"Camelia",
+		"studentEmail":"camelia.sabadis@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"camelia.sabadis",
+		"courseID":"C7"
+	},
+	{
+		"studentID":"paula.nicoara",
+		"studentName":"Nicoara",
+		"studentSurname":"Paula",
+		"studentEmail":"paula.nicoara@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"paula.nicoara",
+		"courseID":"C7"
+	},
+	{
+		"studentID":"laura.prunean",
+		"studentName":"Prunean",
+		"studentSurname":"Laura",
+		"studentEmail":"laura.prunean@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"laura.prunean",
+		"courseID":"C7"
+	},
+	{
+		"studentID":"constanta.popovici",
+		"studentName":"Popovici",
+		"studentSurname":"Constanta",
+		"studentEmail":"constanta.popovici@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"constanta.popovici",
+		"courseID":"C7"
+	},
+	{
+		"studentID":"radu.martian",
+		"studentName":"Martian",
+		"studentSurname":"Radu",
+		"studentEmail":"radu.martian@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"radu.martian",
+		"courseID":"C7"
+	},
+	{
+		"studentID":"adriana.listes",
+		"studentName":"Listes",
+		"studentSurname":"Adriana",
+		"studentEmail":"adriana.listes@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"adriana.listes",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"daniel.trasca",
+		"studentName":"Trasca",
+		"studentSurname":"Daniel",
+		"studentEmail":"daniel.trasca@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"daniel.trasca",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"romeo.miron",
+		"studentName":"Miron",
+		"studentSurname":"Romeo",
+		"studentEmail":"romeo.miron@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"romeo.miron",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"renata.brumaru",
+		"studentName":"Brumaru",
+		"studentSurname":"Renata",
+		"studentEmail":"renata.brumaru@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"renata.brumaru",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"raluca.tusa",
+		"studentName":"Tusa",
+		"studentSurname":"Raluca",
+		"studentEmail":"raluca.tusa@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"raluca.tusa",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"bogdan.bagacian",
+		"studentName":"Bagacian",
+		"studentSurname":"Bogdan",
+		"studentEmail":"bogdan.bagacian@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"bogdan.bagacian",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"rocky.cernea",
+		"studentName":"Cernea",
+		"studentSurname":"Rocky",
+		"studentEmail":"rocky.cernea@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"rocky.cernea",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"emil.sabadis",
+		"studentName":"Sabadis",
+		"studentSurname":"Emil",
+		"studentEmail":"emil.sabadis@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"emil.sabadis",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"dan.osan",
+		"studentName":"Osan",
+		"studentSurname":"Dan",
+		"studentEmail":"dan.osan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"dan.osan",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"daniela.hodis",
+		"studentName":"Hodis",
+		"studentSurname":"Daniela",
+		"studentEmail":"daniela.hodis@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"daniela.hodis",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"isabela.luca",
+		"studentName":"Luca",
+		"studentSurname":"Isabela",
+		"studentEmail":"isabela.luca@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"isabela.luca",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"cornelia.chis",
+		"studentName":"Chis",
+		"studentSurname":"Cornelia",
+		"studentEmail":"cornelia.chis@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"cornelia.chis",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"iulian.berghian",
+		"studentName":"Berghian",
+		"studentSurname":"Iulian",
+		"studentEmail":"iulian.berghian@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"iulian.berghian",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"ioana.hanciu",
+		"studentName":"Hanciu",
+		"studentSurname":"Ioana",
+		"studentEmail":"ioana.hanciu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ioana.hanciu",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"viorica.maxim",
+		"studentName":"Maxim",
+		"studentSurname":"Viorica",
+		"studentEmail":"viorica.maxim@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"viorica.maxim",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"alina.muresan",
+		"studentName":"Muresan",
+		"studentSurname":"Alina",
+		"studentEmail":"alina.muresan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"alina.muresan",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"rodica.anghel",
+		"studentName":"Anghel",
+		"studentSurname":"Rodica",
+		"studentEmail":"rodica.anghel@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"rodica.anghel",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"cristina.alboci",
+		"studentName":"Alboci",
+		"studentSurname":"Cristina",
+		"studentEmail":"cristina.alboci@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"cristina.alboci",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"florin.alboci",
+		"studentName":"Alboci",
+		"studentSurname":"Florin",
+		"studentEmail":"florin.alboci@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"florin.alboci",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"elena.rad",
+		"studentName":"Rad",
+		"studentSurname":"Elena",
+		"studentEmail":"elena.rad@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"elena.rad",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"ioana.molnar",
+		"studentName":"Molnar",
+		"studentSurname":"Ioana",
+		"studentEmail":"ioana.molnar@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ioana.molnar",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"nicolae.baciu",
+		"studentName":"Baciu",
+		"studentSurname":"Nicolae",
+		"studentEmail":"nicolae.baciu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"nicolae.baciu",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"adrian.nap",
+		"studentName":"Nap",
+		"studentSurname":"Adrian",
+		"studentEmail":"adrian.nap@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"adrian.nap",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"dan.nap",
+		"studentName":"Nap",
+		"studentSurname":"Dan",
+		"studentEmail":"dan.nap@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"dan.nap",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"anca.naghiu",
+		"studentName":"Naghiu",
+		"studentSurname":"Anca",
+		"studentEmail":"anca.naghiu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"anca.naghiu",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"carmen.bortes",
+		"studentName":"Bortes",
+		"studentSurname":"Carmen",
+		"studentEmail":"carmen.bortes@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"carmen.bortes",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"lucretia.nap",
+		"studentName":"Nap",
+		"studentSurname":"Lucretia",
+		"studentEmail":"lucretia.nap@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"lucretia.nap",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"calin.chira",
+		"studentName":"Chira",
+		"studentSurname":"Calin",
+		"studentEmail":"calin.chira@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"calin.chira",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"bianca.marc",
+		"studentName":"Marc",
+		"studentSurname":"Bianca",
+		"studentEmail":"bianca.marc@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"bianca.marc",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"aron.pop",
+		"studentName":"Pop",
+		"studentSurname":"Aron",
+		"studentEmail":"aron.pop@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"aron.pop",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"gabriela.margineanu",
+		"studentName":"Margineanu",
+		"studentSurname":"Gabriela",
+		"studentEmail":"gabriela.margineanu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"gabriela.margineanu",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"mariana.les",
+		"studentName":"Les",
+		"studentSurname":"Mariana",
+		"studentEmail":"mariana.les@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mariana.les",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"florentina.cibotariu",
+		"studentName":"Cibotariu",
+		"studentSurname":"Florentina",
+		"studentEmail":"florentina.cibotariu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"florentina.cibotariu",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"ioan.trif",
+		"studentName":"Trif",
+		"studentSurname":"Ioan",
+		"studentEmail":"ioan.trif@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ioan.trif",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"lavinia.palacean",
+		"studentName":"Palacean",
+		"studentSurname":"Lavinia",
+		"studentEmail":"lavinia.palacean@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"lavinia.palacean",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"adela.rat",
+		"studentName":"Rat",
+		"studentSurname":"Adela",
+		"studentEmail":"adela.rat@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"adela.rat",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"tiberiu.balcescu",
+		"studentName":"Balcescu",
+		"studentSurname":"Tiberiu",
+		"studentEmail":"tiberiu.balcescu@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"tiberiu.balcescu",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"camelia.pojar",
+		"studentName":"Pojar",
+		"studentSurname":"Camelia",
+		"studentEmail":"camelia.pojar@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"camelia.pojar",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"mihaela.sirb",
+		"studentName":"Sirb",
+		"studentSurname":"Mihaela",
+		"studentEmail":"mihaela.sirb@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"mihaela.sirb",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"oana.gansca",
+		"studentName":"Gansca",
+		"studentSurname":"Oana",
+		"studentEmail":"oana.gansca@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"oana.gansca",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"ciprian.urcan",
+		"studentName":"Urcan",
+		"studentSurname":"Ciprian",
+		"studentEmail":"ciprian.urcan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"ciprian.urcan",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"vasile.mocan",
+		"studentName":"Mocan",
+		"studentSurname":"Vasile",
+		"studentEmail":"vasile.mocan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"vasile.mocan",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"gabriel.muresan",
+		"studentName":"Muresan",
+		"studentSurname":"Gabriel",
+		"studentEmail":"gabriel.muresan@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"gabriel.muresan",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"lorand.bihari",
+		"studentName":"Bihari",
+		"studentSurname":"Lorand",
+		"studentEmail":"lorand.bihari@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"lorand.bihari",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"cristian.domsa",
+		"studentName":"Domsa",
+		"studentSurname":"Cristian",
+		"studentEmail":"cristian.domsa@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"cristian.domsa",
+		"courseID":"M1"
+	},
+	{
+		"studentID":"calin.rotar",
+		"studentName":"Rotar",
+		"studentSurname":"Calin",
+		"studentEmail":"calin.rotar@cpaddd.ro",
+		"studentType":"student ",
+		"studentPassword":"calin.rotar",
+		"courseID":"M1"
+	}
+]
